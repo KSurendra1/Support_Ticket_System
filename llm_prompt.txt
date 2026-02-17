@@ -1,0 +1,8 @@
+Analyze the following support ticket description and suggest a category and priority.
+
+Categories: billing, technical, account, general
+Priorities: low, medium, high, critical
+
+Description: "{description}"
+
+Return ONLY a JSON object with keys "suggested_category" and "suggested_priority".
