@@ -31,7 +31,7 @@ The entire application runs with a single Docker Compose command.
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/KSurendra1/Support_Ticket_System
 cd "Support Ticket System"
 ```
 
